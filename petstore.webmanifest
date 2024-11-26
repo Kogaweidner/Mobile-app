@@ -4,8 +4,8 @@
     "description": "Buy and sell pets",
     "icons": [
         {
-            "src": "images/icon-store-512.png",
-            "sizes": "192x192",
+            "src": "images/icon-store512.png",
+            "sizes": "512x512",
             "type": "image/png"
         }
     ],
